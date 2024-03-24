@@ -21,4 +21,6 @@
 9. If a function is called with a missing argument, the value of the missing argument is set to undefined
         Undefined values can break your code. It is a good habit to assign default values to arguments
 10. Use default case for switch
+
+Note: by default number is stored as float, if you add .2+.3 you will get .500000000004 like this, need to use divisor to reduce to req decimals like(let z = (x * 10 + y * 10) / 10; )
 */
