@@ -20,4 +20,5 @@
 8. Avoid Number, String, and Boolean as Objects
 9. If a function is called with a missing argument, the value of the missing argument is set to undefined
         Undefined values can break your code. It is a good habit to assign default values to arguments
+10. Use default case for switch
 */
