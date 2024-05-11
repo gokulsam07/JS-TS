@@ -1,6 +1,6 @@
 let age:number = 25.45;
 var fName:string = 'Gokul';
-//forced type
+//forced type -edit
 
 console.log(age.valueOf());
 
