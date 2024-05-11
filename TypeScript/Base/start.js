@@ -12,4 +12,4 @@ function getInfo(){
 //you'll get error only in the run time
 getInfo();
 
-//check start1.ts for ts 
+//check start1.ts for ts for ref
